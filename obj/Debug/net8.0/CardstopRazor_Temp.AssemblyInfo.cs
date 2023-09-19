@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardstopRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e220489790b6d97ed317b1ffae482ce09df63d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f1a9dce9e5297e579a3f15501e732500872b840")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardstopRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardstopRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

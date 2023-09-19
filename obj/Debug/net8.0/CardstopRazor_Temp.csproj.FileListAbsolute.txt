@@ -503,3 +503,4 @@ D:\Taahaa\projects\CardstopRazor_Temp\obj\Debug\net8.0\refint\CardstopRazor_Temp
 D:\Taahaa\projects\CardstopRazor_Temp\obj\Debug\net8.0\CardstopRazor_Temp.pdb
 D:\Taahaa\projects\CardstopRazor_Temp\obj\Debug\net8.0\CardstopRazor_Temp.genruntimeconfig.cache
 D:\Taahaa\projects\CardstopRazor_Temp\obj\Debug\net8.0\ref\CardstopRazor_Temp.dll
+C:\Users\proje\Desktop\projects\CardstopRazor_Temp\obj\Debug\net8.0\CardstopRazor_Temp.sourcelink.json
