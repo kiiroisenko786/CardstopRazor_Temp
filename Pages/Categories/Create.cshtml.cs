@@ -30,6 +30,7 @@ namespace CardstopRazor_Temp.Pages.Categories
              When working with razor pages, we must explicitly bind properties
              that we want to access in the POST of the form */
             _db.Categories.Add(Category);
+            TempData["success"] = "Category created successfully";
             _db.SaveChanges();
             return RedirectToPage("Index");
         }

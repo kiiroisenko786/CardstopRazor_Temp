@@ -37,6 +37,7 @@ namespace CardstopRazor_Temp.Pages.Categories
             _db.Categories.Remove(obj);
             // Save changes to db
             _db.SaveChanges();
+            TempData["success"] = "Category deleted successfully";
             return RedirectToPage("Index");
         }
     }
